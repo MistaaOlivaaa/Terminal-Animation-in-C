@@ -16,8 +16,10 @@ This is a simple C program that simulates a bouncing circle within a terminal wi
 ## Building and Running
 
 1. Clone the repository or download the source code.
-
-2. Compile the program using GCC:
+      https://github.com/MistaaOlivaaa/Terminal-Animation-in-C.git
+      cd ./Terminal-Animation-in-C
+      code .
+3. Compile the program using GCC:
    ```bash
         gcc -o bouncing_circle main.c -lm
         ./bouncing_circle
